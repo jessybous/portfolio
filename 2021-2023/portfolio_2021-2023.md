@@ -24,3 +24,9 @@ Pendant la troisième session (automne 2022) dans mon programme de multimédia, 
 ## Voici la vidéo
 
 [![Pensée secoué](https://img.youtube.com/vi/jiZhvs_tGIA/0.jpg)](https://www.youtube.com/watch?v=jiZhvs_tGIA)
+
+# sonorisation
+
+### Micromontage
+
+![micromontage](/2021-2023/media/boustany_kye_micromontage_582-244MO.wav)
