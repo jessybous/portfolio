@@ -1,4 +1,5 @@
 Voici un lien vers mes projets sur youtube: https://youtube.com/playlist?list=PLHszLDzSu4Dc107wOU57VaBEPjnpyBzh6
+
 Veuillez écouter les vidéos avec écouteurs :)
 # Vidéo & animation 2d
 
@@ -33,10 +34,16 @@ Pendant la troisième session (automne 2022) dans mon programme de multimédia, 
 
 Pour ce projet, j'ai dû enregistré des sons de mon entourage, et les modifiers avec des effets pour créer un micromontage.
 
+
+## Voici la vidéo
+
 [![micromontage](https://img.youtube.com/vi/P0uErlElEoE/0.jpg)](https://www.youtube.com/watch?v=P0uErlElEoE)
 
 ### montage sonore en temps réel
 
 Pour ce projet, il a fallut enregistrer une bande sonore de nous lisant un poème que nous avions écrit, et ensuite appliquer des effets sur cette bande sonore pour avoir des sons complètement différents. Tout les sons entendus vienne du même enregistrement, celle de ma voix. Le montage audio est fait en temps réel et devant un publique.
+
+
+## Voici la vidéo
 
 [![temps reel](https://img.youtube.com/vi/EchXffQmpbg/0.jpg)](https://www.youtube.com/watch?v=EchXffQmpbg)
