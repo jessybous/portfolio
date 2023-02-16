@@ -31,4 +31,4 @@ Pendant la troisième session (automne 2022) dans mon programme de multimédia, 
 
 ### Micromontage
 
-![micromontage](/2021-2023/media/boustany_kye_micromontage_582-244MO.wav)
+[![micromontage](https://img.youtube.com/vi/P0uErlElEoE/0.jpg)](https://www.youtube.com/watch?v=P0uErlElEoE)
