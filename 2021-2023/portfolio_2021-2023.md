@@ -1,5 +1,7 @@
 Voici un lien vers mes projets sur youtube: https://youtube.com/playlist?list=PLHszLDzSu4Dc107wOU57VaBEPjnpyBzh6
 
+La description des rôles des projets se trouve en description de vidéo pour les projets d'équipes.
+
 Veuillez écouter les vidéos avec écouteurs :)
 # Vidéo & animation 2d
 
