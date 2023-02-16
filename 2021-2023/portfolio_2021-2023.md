@@ -1,3 +1,5 @@
+voici un lien vers mes projets sur youtube: https://youtube.com/playlist?list=PLHszLDzSu4Dc107wOU57VaBEPjnpyBzh6
+
 # Vidéo & animation 2d
 
 ### Shine
