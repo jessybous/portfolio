@@ -31,4 +31,6 @@ Pendant la troisième session (automne 2022) dans mon programme de multimédia, 
 
 ### Micromontage
 
+Pour ce projet, j'ai dû enregistré des sons de mon entourage, et les modifiers avec des effets pour créer un micromontage.
+
 [![micromontage](https://img.youtube.com/vi/P0uErlElEoE/0.jpg)](https://www.youtube.com/watch?v=P0uErlElEoE)
