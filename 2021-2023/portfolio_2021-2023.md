@@ -14,7 +14,7 @@ J'ai appellé l'alter Shine, car il veut dire mort en japonais et aussi pour rap
 
 ## Voici la vidéo
 
-[![shine](https://img.youtube.com/vi/ZiaBf6QBnk0/0.jpg)](https://www.youtube.com/watch?v=ZiaBf6QBnk)
+[![shine](https://img.youtube.com/vi/ZiaBf6QBnk0/0.jpg)](https://www.youtube.com/watch?v=ZiaBf6QBnk0&list=PLHszLDzSu4Dc107wOU57VaBEPjnpyBzh6&index=2&t=4s)
 
 
 # Vidéo
