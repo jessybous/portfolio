@@ -3,6 +3,41 @@ Voici un lien vers mes projets sur youtube: https://youtube.com/playlist?list=PL
 La description des rôles des projets se trouve en description de vidéo pour les projets d'équipes.
 
 Veuillez écouter les vidéos avec écouteurs :)
+
+
+
+# sonorisation
+
+### montage sonore en temps réel
+
+Pour ce projet, il a fallut enregistrer une bande sonore de nous lisant un poème que nous avions écrit, et ensuite appliquer des effets sur cette bande sonore pour avoir des sons complètement différents. Tout les sons entendus vienne du même enregistrement, celle de ma voix. Le montage audio est fait en temps réel et devant un publique.
+
+
+## Voici la vidéo
+
+[![temps reel](https://img.youtube.com/vi/EchXffQmpbg/0.jpg)](https://www.youtube.com/watch?v=EchXffQmpbg)
+
+
+### Micromontage
+
+Pour ce projet, j'ai dû enregistré des sons de mon entourage, et les modifiers avec des effets pour créer un micromontage.
+
+
+## Voici la vidéo
+
+[![micromontage](https://img.youtube.com/vi/P0uErlElEoE/0.jpg)](https://www.youtube.com/watch?v=P0uErlElEoE)
+
+
+# Vidéo
+
+### Pensée Secouée
+
+Pendant la troisième session (automne 2022) dans mon programme de multimédia, nous devions créer une vidéo en équipe et une bande sonore avec des plans rapproché. Nous avons donc créer l'histoire d'une star de Rock qui se perd mentalement, tombe dans la drogue et les substances illicite et nous voulions donné un thème sombre à notre conception.
+
+## Voici la vidéo
+
+[![Pensée secoué](https://img.youtube.com/vi/jiZhvs_tGIA/0.jpg)](https://www.youtube.com/watch?v=jiZhvs_tGIA)
+
 # Vidéo & animation 2d
 
 ### Shine
@@ -20,32 +55,5 @@ J'ai appellé l'alter Shine, car il veut dire mort en japonais et aussi pour rap
 [![shine](https://img.youtube.com/vi/ZiaBf6QBnk0/0.jpg)](https://www.youtube.com/watch?v=ZiaBf6QBnk0&list=PLHszLDzSu4Dc107wOU57VaBEPjnpyBzh6&index=2&t=4s)
 
 
-# Vidéo
-
-### Pensée Secouée
-
-Pendant la troisième session (automne 2022) dans mon programme de multimédia, nous devions créer une vidéo en équipe et une bande sonore avec des plans rapproché. Nous avons donc créer l'histoire d'une star de Rock qui se perd mentalement, tombe dans la drogue et les substances illicite et nous voulions donné un thème sombre à notre conception.
-
-## Voici la vidéo
-
-[![Pensée secoué](https://img.youtube.com/vi/jiZhvs_tGIA/0.jpg)](https://www.youtube.com/watch?v=jiZhvs_tGIA)
-
-# sonorisation
-
-### Micromontage
-
-Pour ce projet, j'ai dû enregistré des sons de mon entourage, et les modifiers avec des effets pour créer un micromontage.
 
 
-## Voici la vidéo
-
-[![micromontage](https://img.youtube.com/vi/P0uErlElEoE/0.jpg)](https://www.youtube.com/watch?v=P0uErlElEoE)
-
-### montage sonore en temps réel
-
-Pour ce projet, il a fallut enregistrer une bande sonore de nous lisant un poème que nous avions écrit, et ensuite appliquer des effets sur cette bande sonore pour avoir des sons complètement différents. Tout les sons entendus vienne du même enregistrement, celle de ma voix. Le montage audio est fait en temps réel et devant un publique.
-
-
-## Voici la vidéo
-
-[![temps reel](https://img.youtube.com/vi/EchXffQmpbg/0.jpg)](https://www.youtube.com/watch?v=EchXffQmpbg)
